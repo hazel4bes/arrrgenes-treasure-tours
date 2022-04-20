@@ -57,6 +57,7 @@ body {
 }
 
 .banner {
+  background-color: #522806;
   display: grid;
   grid-template-columns: 1fr;
   grid-template-rows: 1fr;
@@ -79,9 +80,9 @@ body {
   text-align: center;
 }
 
-.banner h2,
-.banner p {
+.banner h2, .banner p {
   margin: 0 0 1.5rem;
+  color: #fff;
 }
 
 .banner a {
