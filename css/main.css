@@ -95,6 +95,10 @@ body {
   text-decoration: none;
 }
 
+.banner a:focus {
+  outline: 3px solid #fff;
+}
+
 .ship {
   padding: 2rem;
 }
